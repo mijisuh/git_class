@@ -2,3 +2,5 @@
 admin@company.com
 
 - 기본 명령어: add, commit, diff, restore, status, log
+- Branch 명령어: branch, checkout, merge
+
